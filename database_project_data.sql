@@ -36,9 +36,9 @@ INSERT INTO user(username, password, name, lastname, reg_data, email) VALUES
 ("user35", "vk1057", "Vasiliki", "Kagia", "2020-04-22", "vasiliki.kagia@gmail.com"),
 ("user36", "on7777", "Orestis", "Nikolaou", "2022-09-17", "orestis777@hotmail.com"),
 ("user37", "petrospetros", "Petros", "Maragkos", "2023-12-9", "primalpetros123@gmail.com"),
-("user38", "thisissparta", "Leonidas", "Gourvelos", "2024-07-16", "leongourv13@gmail.com"),
+("user38", "thisiszante", "Agamemnon", "Papadopoulos", "2024-07-16", "theofficer13@gmail.com"),
 ("user39", "geolalas2803", "Giorgos", "Lalas", "2023-12-12", "georgelalas03@gmail.com"),
-("user40", "mike1234", "Michalis", "Tanteles", "2023-11-12", "tantelios1234@gmail.com"); 
+("user40", "qwerty", "Tigris", "Oikonomou", "2023-11-12", "thetiger1234@gmail.com"); 
 
 INSERT INTO employee(username, bio, sistatikes, certificates) VALUES
 ("user1", "Έμπειρος προγραμματιστής λογισμικού με ισχυρή εμπειρία στη διαχείριση έργων.", NULL, "AWS Certified Developer"),
