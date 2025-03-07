@@ -1,4 +1,4 @@
-The README.pdf has the full project analysis and relational diagram, it is posted in the repository.
+The README.pdf has the full project analysis and relational diagram, it is posted in the repository (download to view contents).
 
 Execution tips:
 1) Run the database_project and database_project_data before anything else 
