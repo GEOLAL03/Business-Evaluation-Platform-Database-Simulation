@@ -10,7 +10,7 @@ DECLARE res FLOAT;
 DECLARE stat VARCHAR(30); 
 DECLARE j_id int;
 DECLARE i INT DEFAULT 0;
-WHILE i<5000 DO
+WHILE i<10000 DO
 SET ev1 = CONCAT('user', FLOOR(19 + RAND() * 18));
 SET ev2 = CONCAT('user', FLOOR(19 + RAND() * 18));
 SET emp = CONCAT('user', FLOOR(1 + RAND() * 18));
