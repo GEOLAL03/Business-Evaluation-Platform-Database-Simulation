@@ -6,4 +6,4 @@ Execution tips:
 3) Run ait before ist 
 3) Don't run delete_examination before ist
 
-For efficiency the use if MySQL workbench is recommended.
+For efficiency the use of MySQL workbench is recommended.
